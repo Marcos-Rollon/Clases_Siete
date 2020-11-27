@@ -1,0 +1,7 @@
+gravity = 0.6
+lift = -15
+velocity *= 0.9
+x position_bird  = 64
+radius_bird = 32
+ancho_tub = 20
+vel_tub = 2
