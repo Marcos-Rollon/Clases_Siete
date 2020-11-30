@@ -10,5 +10,9 @@ function onLoad(){
 }
 
 function startNewGame(){ 
-    console.log("EMPEZANDO NUEVA PARTIDA TO GUAPA")
+    console.log("Otra cosa")
+}
+
+function myFunction(){
+    
 }
